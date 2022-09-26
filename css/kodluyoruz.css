@@ -1,0 +1,21 @@
+/* Layout */
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: orange;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
